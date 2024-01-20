@@ -1,9 +1,6 @@
 package TestaTudo;
 
-/**
- *
- * @author LeKKi
- */
+
 
 import DAO.FornecedorDAO;
 import java.util.ArrayList;
