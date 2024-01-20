@@ -5,11 +5,6 @@ import model.Venda;
 import DAO.VendaDAO;
 
 
-
-/**
- *
- * @author LeKKi
- */
 public class TestaEditarVenda {
     
     public static void main(String[] args) {
