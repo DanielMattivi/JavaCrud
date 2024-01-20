@@ -7,10 +7,6 @@ import persist.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author 08050461
- */
 public class FuncionarioDAO implements OperacoesDAO {
     
     private static final Connection con = Conexao.getConexao();
