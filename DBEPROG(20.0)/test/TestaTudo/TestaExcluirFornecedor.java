@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package TestaTudo;
 import model.Fornecedor;
 import DAO.FornecedorDAO;
 
-/**
- *
- * @author Arthur
- */
+
 public class TestaExcluirFornecedor {
     
     public static void main(String[] args) {
